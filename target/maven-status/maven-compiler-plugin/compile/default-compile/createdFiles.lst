@@ -1,0 +1,12 @@
+me\ByteCoder\Core\Connections\Secure\SCryptor.class
+me\ByteCoder\Core\Client\Types\ClientListener$1.class
+me\ByteCoder\Core\Client\MessageManager.class
+me\ByteCoder\Core\Connections\Secure\SPacket.class
+me\ByteCoder\Core\Client\Client.class
+me\ByteCoder\Core\Client\MessageContainer.class
+me\ByteCoder\Core\Connections\Secure\SPacket$SPacketType.class
+me\ByteCoder\Core\Client\Client$Type.class
+me\ByteCoder\Core\Connections\Secure\SPacketUtils.class
+me\ByteCoder\Core\Client\Types\ClientListener.class
+me\ByteCoder\Core\TestPacket.class
+me\ByteCoder\Core\Client\Types\ClientHandshake.class
